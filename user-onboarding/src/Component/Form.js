@@ -26,7 +26,7 @@ const Form = (props) => {
                 <label> Name:
                     <input 
                         type="text" 
-                        name="name"
+                        name="username"
                         value={username}
                         onChange={onChange}
                     />
